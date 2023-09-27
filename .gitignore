@@ -1,0 +1,7 @@
+/venv
+app.logs
+models/__pycache__/csv_import.cpython-311.pyc
+views/__pycache__/csv_worker.cpython-311.pyc
+models/__pycache__/user_models.cpython-311.pyc
+__pycache__/config.cpython-311.pyc
+.vscode/settings.json
